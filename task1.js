@@ -12,3 +12,4 @@ function howManyLightsabersDoYouOwn(name) {
     } else
       return 0;
  }
+ console.log(howManyLightsabersDoYouOwn("Zach"));
